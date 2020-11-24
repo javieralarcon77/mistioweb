@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'; 
 import fetchRepos from '../libs/fetchRepos';
-//import repos from '../data/repos';
 import Repo from './repo';
 
 export default () => {
@@ -29,7 +28,7 @@ export default () => {
                 }
             </ul>
             <div className="mt-8 text-center">
-                <a href="https://api.github.com/users/javieralarcon77/repos" className="btn" rel="noopener noreferrer">
+                <a href="https://github.com/javieralarcon77" className="btn" target="_blank" rel="noopener noreferrer">
                     Ver más en GitHub ( { reposCount } )
                 </a>
             </div>
