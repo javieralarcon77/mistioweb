@@ -7,7 +7,7 @@ import Repos from '../components/repos';
 
 export default () => {
   return (
-    <div>
+    <div className="mb-5">
       <Header />
       <EducationNav />
       <Repos />

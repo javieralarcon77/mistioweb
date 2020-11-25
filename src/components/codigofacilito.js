@@ -17,8 +17,6 @@ export default () => {
     }
     `);
 
-    console.log(data);
-
     return ( 
         <section>
             <div className="mt-24">
@@ -27,7 +25,7 @@ export default () => {
                     <div className="flex mt-8">
                         {
                             data.codigofacilitoJson.data.finished_courses.map( (course, i) => (
-                                <div className="shadow p-8 bg-white mr-4 rounded text-center">
+                                <div key={ `cour-${ i }` } className="shadow p-8 bg-white mr-4 rounded text-center">
                                     <h4 className="font-bold">{ course.title }</h4>
                                     <a 
                                         className="text-purple-700" 

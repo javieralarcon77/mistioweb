@@ -9,7 +9,7 @@ export default () => (
             <div className="flex justify-center justify-items-center">
                 <div className="flex-1">
                     <h1 className="font-bold text-purple-700 text-6xl">Hola! Soy Javier</h1>
-                    <p className="font-light text-xl">Creo aplicaciones web en diversos lenguajes de programaciones</p>
+                    <p className="font-light text-xl">Amante del cafe, desarrollador full stack, gamer apasoniado.</p>
                 </div>
                 <img
                     style={{height:'300px'}}
