@@ -1,0 +1,17 @@
+{
+    "slug" : "presencial",
+    "title": "Formación Académica",
+    "description": "Formación Académica, grados de estudio e instituciones a las que asistí",
+    "items":[
+        {
+            "name":"Universidad Experimental del Tachira",
+            "degree":"Ing. en Informatíca",
+            "score":"4.5"
+        },
+        {
+            "name":"IU Ildefonso Vasquez Bravo",
+            "degree":"Bachiller en Ciencias",
+            "score":"14.5"
+        }
+    ]
+}

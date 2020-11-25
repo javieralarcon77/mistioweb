@@ -1,0 +1,19 @@
+{
+    "slug" : "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educación en internet",
+    "items":[
+        {
+            "name":"React: De cero a experto ( Hooks y MERN )",
+            "url":"https://www.udemy.com/course/react-cero-experto/"
+        },
+        {
+            "name": "React Hooks: Guia inicial utilizando Redux y Material.UI",
+            "url":"https://www.udemy.com/course/react-hooks-guia-inicial-utilizando-redux-y-materialui/"
+        },
+        {
+            "name":"Flutter: Tu guía completa de desarrollo para IOS y Android",
+            "url":"https://www.udemy.com/course/flutter-ios-android-fernando-herrera/"
+        }
+    ]
+}
